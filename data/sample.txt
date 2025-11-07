@@ -1,0 +1,9 @@
+Welcome to Python Programming!
+
+This is a sample text file for practicing file operations.
+You can read this file, process its content, and write new files.
+
+Python makes file handling easy and intuitive.
+Keep practicing and you'll master it in no time!
+
+Happy coding!
